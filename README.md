@@ -35,7 +35,6 @@ MERNApp
         routes
             dataroutes.js
         server.js
-
     frontend
         node_modules
         public
